@@ -1,0 +1,62 @@
+{
+  "id": "0cbda202-9515-4907-938b-13c4637b91a4",
+  "name": "gaming_redragon_karura_k502",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "3ee42bac-20b4-45d9-b2cd-320c40d86634",
+          "required": false,
+          "dataType": "@gaming_keyboard",
+          "name": "gaming_keyboard",
+          "value": "$gaming_keyboard",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "telegram",
+          "lang": "en",
+          "condition": "",
+          "title": "Redragon Karura K502 USB Gaming Keyboard",
+          "subtitle": "Silent Gaming Keyboard; 104 quiet keys for longevity, durability and responsiveness. The keys offer less resistance .",
+          "imageUrl": "https://m.media-amazon.com/images/I/61YiuIfcAbL._AC_UY327_FMwebp_QL65_.jpg",
+          "buttons": [
+            {
+              "text": "Buy Now",
+              "postback": "https://www.amazon.in/Redragon-Karura-K502-Gaming-Keyboard/dp/B00LSGKEC4/ref\u003dsr_1_3?keywords\u003dRedragon+Karura+K502+USB+Gaming+Keyboard\u0026qid\u003d1575357216\u0026sr\u003d8-3"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "The Redragon is here. Grab it fast."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true,
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,106 @@
+{
+  "id": "cf8871ab-4245-46da-88e6-6aa54476914d",
+  "name": "buy keyboard general",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "keyboard",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "ecab957f-c913-4732-bd75-3a78c342dfbe",
+          "required": false,
+          "dataType": "@keyboard",
+          "name": "keyboard",
+          "value": "$keyboard",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "suggestions": [
+            {
+              "title": "Mechanical Keyboard"
+            },
+            {
+              "title": "Gaming Keyboard"
+            },
+            {
+              "title": "Regular Use Keyboard"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "telegram",
+          "lang": "en",
+          "condition": "",
+          "title": "Category Selection",
+          "subtitle": "Select your category",
+          "imageUrl": "https://i.ytimg.com/vi/RAGXDssJ6d8/maxresdefault.jpg",
+          "buttons": [
+            {
+              "text": "Gaming Keyboard"
+            },
+            {
+              "text": "Normal Use Keyboard"
+            },
+            {
+              "text": "Mechanical Keyboard"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "condition": "",
+          "title": "Category Selection",
+          "subtitle": "Select your category",
+          "imageUrl": "https://i.ytimg.com/vi/RAGXDssJ6d8/maxresdefault.jpg",
+          "buttons": [
+            {
+              "text": "Gaming Keyboard"
+            },
+            {
+              "text": "Normal Use Keyboard"
+            },
+            {
+              "text": "Mechanical Keyboard"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "We have a wide range of keyboards. Here\u0027s the types."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true,
+        "telegram": true,
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

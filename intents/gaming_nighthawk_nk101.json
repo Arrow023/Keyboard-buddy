@@ -1,0 +1,62 @@
+{
+  "id": "7a5694ec-7cc8-404d-bc49-6d8cf7eecadc",
+  "name": "gaming_nighthawk_nk101",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "e4b5c7ae-fe2e-447f-8c9d-9cbf55b7e354",
+          "required": false,
+          "dataType": "@gaming_keyboard",
+          "name": "gaming_keyboard",
+          "value": "$gaming_keyboard",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "telegram",
+          "lang": "en",
+          "condition": "",
+          "title": "Night Hawk Nk101 FPS Gaming Keyboard",
+          "subtitle": "Gaming Keyboard with 3 Colour Changeable LED and 19 Anti-Ghosting Keys",
+          "imageUrl": "https://m.media-amazon.com/images/I/61ZDZFCHHwL._AC_UY327_FMwebp_QL65_.jpg",
+          "buttons": [
+            {
+              "text": "Buy Now",
+              "postback": "https://www.amazon.in/Night-Hawk-Keyboard-Changeable-Anti-Ghosting/dp/B071WCDXCX/ref\u003dsr_1_1?keywords\u003dnighthawk+nk101+fps+gaming+keyboard\u0026qid\u003d1575357905\u0026sr\u003d8-1"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "This product \"Night Hawk Nk101 FPS Gaming Keyboard\" is a beast. And you chose to control it."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true,
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

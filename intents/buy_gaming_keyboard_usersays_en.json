@@ -1,0 +1,90 @@
+[
+  {
+    "id": "0dd88c35-bf28-484f-9003-40c34090b2bb",
+    "data": [
+      {
+        "text": "buy a ",
+        "userDefined": false
+      },
+      {
+        "text": "gaming",
+        "alias": "gaming_keyboard",
+        "meta": "@gaming_keyboard",
+        "userDefined": false
+      },
+      {
+        "text": " keyboard",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "d99ec7c2-4145-4846-a0ec-22f4bf8f91e1",
+    "data": [
+      {
+        "text": "get me a ",
+        "userDefined": false
+      },
+      {
+        "text": "gaming",
+        "alias": "gaming_keyboard",
+        "meta": "@gaming_keyboard",
+        "userDefined": false
+      },
+      {
+        "text": " keyboard",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f0f329ae-81f5-42d2-a29e-fc3fddf8355a",
+    "data": [
+      {
+        "text": "i want a ",
+        "userDefined": false
+      },
+      {
+        "text": "gaming",
+        "alias": "gaming_keyboard",
+        "meta": "@gaming_keyboard",
+        "userDefined": false
+      },
+      {
+        "text": " keyboard",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bd46854d-edd7-4333-b16d-2fc0dc0f0c2a",
+    "data": [
+      {
+        "text": "i need a ",
+        "userDefined": false
+      },
+      {
+        "text": "gaming",
+        "alias": "gaming_keyboard",
+        "meta": "@gaming_keyboard",
+        "userDefined": true
+      },
+      {
+        "text": " keyboard",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "id": "c007e858-eee5-47a7-a453-35b5974b05db",
+  "name": "keyboard",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

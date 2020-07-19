@@ -1,0 +1,9 @@
+{
+  "id": "86f6e465-bf52-4bf2-916e-77e0b88206dd",
+  "name": "mech_keyboard",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

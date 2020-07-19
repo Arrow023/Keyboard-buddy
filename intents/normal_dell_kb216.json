@@ -1,0 +1,61 @@
+{
+  "id": "036e4690-6d89-405f-958e-a41ea6c87414",
+  "name": "normal_dell_kb216",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "6151198c-bcf1-420e-bf65-9c92b34dd348",
+          "required": false,
+          "dataType": "@normal_use_keyboards",
+          "name": "normal_use_keyboards",
+          "value": "$normal_use_keyboards",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "telegram",
+          "lang": "en",
+          "condition": "",
+          "title": "Dell KB216 Wired Multimedia USB Keyboard",
+          "subtitle": "The convenient multimedia keys let you easily access functions such as play, pause, rewind and fast-forward plus volume control",
+          "imageUrl": "https://m.media-amazon.com/images/I/811YM2Go9GL._AC_UY327_FMwebp_QL65_.jpg",
+          "buttons": [
+            {
+              "text": "Buy Now",
+              "postback": "https://www.amazon.in/Dell-KB216-Wired-Multimedia-Keyboard/dp/B00ZYLMQH0/ref\u003dsr_1_3?keywords\u003dDell+KB216+Wired+Multimedia+USB+Keyboard\u0026qid\u003d1575360623\u0026sr\u003d8-3"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Dell KB216 is a professional look office and general purpose keyboard."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

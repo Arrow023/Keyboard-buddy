@@ -1,0 +1,92 @@
+[
+  {
+    "id": "829d3815-7834-4b99-b3c5-5be5a06f499a",
+    "data": [
+      {
+        "text": "want a ",
+        "userDefined": false
+      },
+      {
+        "text": "mech",
+        "alias": "mech_keyboard",
+        "meta": "@mech_keyboard",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "keyboard",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f221f575-37ff-4e61-b73c-6a7faf4e88dc",
+    "data": [
+      {
+        "text": "i need a ",
+        "userDefined": false
+      },
+      {
+        "text": "mechanic",
+        "alias": "mech_keyboard",
+        "meta": "@mech_keyboard",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "keyboard",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "41ea8be7-f605-4ee5-b2e6-9ff1e673bed4",
+    "data": [
+      {
+        "text": "mechanical",
+        "alias": "mech_keyboard",
+        "meta": "@mech_keyboard",
+        "userDefined": false
+      },
+      {
+        "text": " keyboard",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3f50f1d2-c089-4cba-b70e-288b0e907558",
+    "data": [
+      {
+        "text": "mech",
+        "alias": "mech_keyboard",
+        "meta": "@mech_keyboard",
+        "userDefined": true
+      },
+      {
+        "text": " keyboard",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

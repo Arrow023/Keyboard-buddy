@@ -1,0 +1,102 @@
+[
+  {
+    "id": "356400d9-dd4c-4f43-a04b-2c42dbf7b958",
+    "data": [
+      {
+        "text": "ZEBRONICS MECHANICAL USB WIRED KEYBOARD MAX PLUS",
+        "alias": "mech_keyboard",
+        "meta": "@mech_keyboard",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b1140d8c-0147-489f-a864-61cc62dae5e2",
+    "data": [
+      {
+        "text": "zebronics max pro keyboard",
+        "alias": "mech_keyboard",
+        "meta": "@mech_keyboard",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "530882da-4d92-4465-a7ef-f229cd9c2256",
+    "data": [
+      {
+        "text": "want a ",
+        "userDefined": false
+      },
+      {
+        "text": "zebronics max pro",
+        "alias": "mech_keyboard",
+        "meta": "@mech_keyboard",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "462127c7-bde9-4661-a924-361d82aee836",
+    "data": [
+      {
+        "text": "get me a ",
+        "userDefined": false
+      },
+      {
+        "text": "zebronic mech",
+        "alias": "mech_keyboard",
+        "meta": "@mech_keyboard",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "keyboard",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "49f3e5e8-f0c8-494c-b89c-ab3ac8109894",
+    "data": [
+      {
+        "text": "i need a ",
+        "userDefined": false
+      },
+      {
+        "text": "zebronics",
+        "alias": "mech_keyboard",
+        "meta": "@mech_keyboard",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "keyboard",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

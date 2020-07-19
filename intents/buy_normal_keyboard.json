@@ -1,0 +1,90 @@
+{
+  "id": "75b81a8b-4e20-4866-aa8e-45673655244f",
+  "name": "buy_normal_keyboard",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "5f141c08-aa1a-4596-abf2-eea909dae4a1",
+          "required": false,
+          "dataType": "@normal_use_keyboards",
+          "name": "normal_use_keyboards",
+          "value": "$normal_use_keyboards",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "telegram",
+          "lang": "en",
+          "condition": "",
+          "title": "Regular Use Keyboards",
+          "subtitle": "Select your profession",
+          "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/81wRXdAOmkL._SL1500_.jpg",
+          "buttons": [
+            {
+              "text": "Logitech K230 Keyboard"
+            },
+            {
+              "text": "Dell KB216 Keyboard"
+            },
+            {
+              "text": "HP 100 Keyboard"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "condition": "",
+          "title": "Regular Use Keyboards",
+          "subtitle": "Select your profession",
+          "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/81wRXdAOmkL._SL1500_.jpg",
+          "buttons": [
+            {
+              "text": "Logitech K230 Keyboard",
+              "postback": "https://www.amazon.in/Logitech-K230-Wireless-Keyboard/dp/B01267B9CW/ref\u003dsr_1_2?keywords\u003dLogitech+K230+Wireless+Keyboard\u0026qid\u003d1575296923\u0026sr\u003d8-2"
+            },
+            {
+              "text": "Dell KB216 Keyboard",
+              "postback": "https://www.amazon.in/Dell-KB216-Wired-Multimedia-Keyboard/dp/B00ZYLMQH0/ref\u003dsr_1_2?keywords\u003dDell+KB216+Wired+Multimedia+USB+Keyboard\u0026qid\u003d1575296961\u0026sr\u003d8-2"
+            },
+            {
+              "text": "HP 100 Keyboard",
+              "postback": "https://www.amazon.in/HP-100-Wired-USB-Keyboard/dp/B07L4VCBLM/ref\u003dsr_1_1?keywords\u003dHP+100+Wired+USB+Keyboard\u0026qid\u003d1575296991\u0026sr\u003d8-1"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "We\u0027ve got a good varities of regular use keyboards. Just for you."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true,
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

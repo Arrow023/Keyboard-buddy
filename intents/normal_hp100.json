@@ -1,0 +1,61 @@
+{
+  "id": "34a1c37e-deaf-46f2-ba52-aac54ffa4fb8",
+  "name": "normal_hp100",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "70f26f12-cfec-4306-ba44-de8dcbccd754",
+          "required": false,
+          "dataType": "@normal_use_keyboards",
+          "name": "normal_use_keyboards",
+          "value": "$normal_use_keyboards",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "telegram",
+          "lang": "en",
+          "condition": "",
+          "title": "HP 100 Wired USB Keyboard",
+          "subtitle": "Designed for comfort Natural contours and shape allow the keyboard to sit in a comfortable position for your wrist and hands",
+          "imageUrl": "https://m.media-amazon.com/images/I/81wRXdAOmkL._AC_UY327_FMwebp_QL65_.jpg",
+          "buttons": [
+            {
+              "text": "Buy Now",
+              "postback": "https://www.amazon.in/HP-100-Wired-USB-Keyboard/dp/B07L4VCBLM/ref\u003dsr_1_3?keywords\u003dHP+100+Wired+USB+Keyboard\u0026qid\u003d1575361213\u0026sr\u003d8-3"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "HP 100 is a cool look office and general purpose keyboard."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

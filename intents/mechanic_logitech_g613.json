@@ -1,0 +1,62 @@
+{
+  "id": "789e439e-b48f-4656-b0c4-14c2fa1dac5b",
+  "name": "mechanic_logitech_g613",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "31f26a43-f955-43b8-ad70-f31a29da59be",
+          "required": false,
+          "dataType": "@mech_keyboard",
+          "name": "mech_keyboard",
+          "value": "$mech_keyboard",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "telegram",
+          "lang": "en",
+          "condition": "",
+          "title": "Logitech G613 Wireless Mechanical Gaming Keyboard",
+          "subtitle": "Enhance your gaming experience by using this keyboard from Logitech.",
+          "imageUrl": "https://m.media-amazon.com/images/I/51tVcPmXPYL._AC_UY327_FMwebp_QL65_.jpg",
+          "buttons": [
+            {
+              "text": "Buy Now",
+              "postback": "https://www.amazon.in/Logitech-Wireless-Gaming-Keyboard-Black/dp/B0767637QW/ref\u003dsr_1_3?keywords\u003dLogitech+G613+Wireless+Mechanical+Gaming+Keyboard\u0026qid\u003d1575359543\u0026sr\u003d8-3"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Logitech Mechanic Keyboard gives you the smooth typing experience."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true,
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

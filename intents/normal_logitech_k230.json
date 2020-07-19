@@ -1,0 +1,61 @@
+{
+  "id": "f36a1840-6b81-4337-9ee4-776b27b6875b",
+  "name": "normal_logitech_k230",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "006039fb-105e-43c6-9d3e-07adf030f6a7",
+          "required": false,
+          "dataType": "@normal_use_keyboards",
+          "name": "normal_use_keyboards",
+          "value": "$normal_use_keyboards",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "telegram",
+          "lang": "en",
+          "condition": "",
+          "title": "Logitech K230 Wireless Keyboard",
+          "subtitle": "Advanced 2.4 GHz wireless lets you work or play anywhere. The wireless connection virtually eliminates delays, dropouts and interference and gives you range of up to 10 meters.",
+          "imageUrl": "https://m.media-amazon.com/images/I/61iltlf22cL._AC_UY327_FMwebp_QL65_.jpg",
+          "buttons": [
+            {
+              "text": "Buy Now",
+              "postback": "https://www.amazon.in/Logitech-K230-Wireless-Keyboard/dp/B01267B9CW/ref\u003dsr_1_1?keywords\u003dlogitech+k230+wireless+keyboard\u0026qid\u003d1575360384\u0026sr\u003d8-1"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "This Logitech product is great for office purpose and home use. It\u0027s has a professional look."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

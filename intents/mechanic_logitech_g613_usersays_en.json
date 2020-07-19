@@ -1,0 +1,88 @@
+[
+  {
+    "id": "32d50cec-db96-4853-96f4-d3c47e5cfa8a",
+    "data": [
+      {
+        "text": "Logitech G613 Keyboard",
+        "alias": "mech_keyboard",
+        "meta": "@mech_keyboard",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "157de754-aa18-45ca-99ba-e3b9544ac81f",
+    "data": [
+      {
+        "text": "get me a ",
+        "userDefined": false
+      },
+      {
+        "text": "g613",
+        "alias": "mech_keyboard",
+        "meta": "@mech_keyboard",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "6369beda-9d88-46e6-980e-c188c15ef34d",
+    "data": [
+      {
+        "text": "want a ",
+        "userDefined": false
+      },
+      {
+        "text": "logitech g613 keyboard",
+        "alias": "mech_keyboard",
+        "meta": "@mech_keyboard",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e34bcb86-4d48-4d55-82d6-9ca895053e84",
+    "data": [
+      {
+        "text": "need a ",
+        "userDefined": false
+      },
+      {
+        "text": "logitech mechanic keyboard",
+        "alias": "mech_keyboard",
+        "meta": "@mech_keyboard",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "229dce39-b6b5-4c52-ab3f-a534ec7b6dad",
+    "data": [
+      {
+        "text": "i want a ",
+        "userDefined": false
+      },
+      {
+        "text": "logitech g613",
+        "alias": "mech_keyboard",
+        "meta": "@mech_keyboard",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

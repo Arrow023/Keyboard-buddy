@@ -1,0 +1,83 @@
+{
+  "id": "323a413e-485f-41a3-9215-53a95b19c7ff",
+  "name": "buy_mechanic_keyboard",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "cb7a1e18-f622-425d-a8a9-50515e6786d0",
+          "required": false,
+          "dataType": "@mech_keyboard",
+          "name": "mech_keyboard",
+          "value": "$mech_keyboard",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "telegram",
+          "lang": "en",
+          "condition": "",
+          "title": "Mechanical Keyboards",
+          "subtitle": "Choose your passion",
+          "imageUrl": "https://m.media-amazon.com/images/I/615pWE7IrlL._AC_UY327_FMwebp_QL65_.jpg",
+          "buttons": [
+            {
+              "text": "Zebronics MAX Pro Keyboard"
+            },
+            {
+              "text": "Logitech G613 Keyboard"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "condition": "",
+          "title": "Mechanical Keyboards",
+          "subtitle": "Choose your passion",
+          "imageUrl": "https://m.media-amazon.com/images/I/615pWE7IrlL._AC_UY327_FMwebp_QL65_.jpg",
+          "buttons": [
+            {
+              "text": "Zebronics MAX Pro Keyboard",
+              "postback": "https://www.amazon.in/Zebronics-Mechanical-Wired-Keyboard-Black/dp/B078NWJ6VM/ref\u003dsr_1_2?keywords\u003dZebronics+MAX+Pro+Keyboard\u0026qid\u003d1575278984\u0026sr\u003d8-2"
+            },
+            {
+              "text": "Logitech G613 Keyboard",
+              "postback": "https://www.amazon.in/Logitech-Wireless-Gaming-Keyboard-Black/dp/B0767637QW/ref\u003dsr_1_1?keywords\u003dLogitech+G613+Keyboard\u0026qid\u003d1575279006\u0026sr\u003d8-1"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "We have a huge varieties of mechanical keyboards. Choose your one."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true,
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

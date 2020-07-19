@@ -1,0 +1,74 @@
+[
+  {
+    "id": "65c30060-c177-4d54-ae8d-4e59f1902ba5",
+    "data": [
+      {
+        "text": "suggest me good ",
+        "userDefined": false
+      },
+      {
+        "text": "keyboards",
+        "alias": "keyboard",
+        "meta": "@keyboard",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b7d5c29f-8e93-4ab7-b36d-755f0901f0df",
+    "data": [
+      {
+        "text": "buy a ",
+        "userDefined": false
+      },
+      {
+        "text": "keyboard",
+        "alias": "keyboard",
+        "meta": "@keyboard",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "0eb990b7-5691-43e4-8db5-d802ba5895b9",
+    "data": [
+      {
+        "text": "want a ",
+        "userDefined": false
+      },
+      {
+        "text": "keyboard",
+        "alias": "keyboard",
+        "meta": "@keyboard",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fd661b61-ce52-4343-9a16-6952dbae604f",
+    "data": [
+      {
+        "text": "need a ",
+        "userDefined": false
+      },
+      {
+        "text": "keyboard",
+        "alias": "keyboard",
+        "meta": "@keyboard",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "id": "d597b61a-095d-451c-97e0-2705626d4f9d",
+    "data": [
+      {
+        "text": "HP 100 Keyboard",
+        "alias": "normal_use_keyboards",
+        "meta": "@normal_use_keyboards",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ba459bc5-81f8-455f-aadb-67691c120851",
+    "data": [
+      {
+        "text": "need a ",
+        "userDefined": false
+      },
+      {
+        "text": "hp office",
+        "alias": "normal_use_keyboards",
+        "meta": "@normal_use_keyboards",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "keyboard",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c3bb8adc-98be-48ba-941a-0ff41ba62c22",
+    "data": [
+      {
+        "text": "want a ",
+        "userDefined": false
+      },
+      {
+        "text": "hp100",
+        "alias": "normal_use_keyboards",
+        "meta": "@normal_use_keyboards",
+        "userDefined": true
+      },
+      {
+        "text": " general purpose keyboard",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "157627a3-472b-41fa-a5b7-44d0fba3a30e",
+    "data": [
+      {
+        "text": "i need a ",
+        "userDefined": false
+      },
+      {
+        "text": "hp regular",
+        "alias": "normal_use_keyboards",
+        "meta": "@normal_use_keyboards",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "keyboard",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f03f58be-4e50-494d-8729-7cfd81ccee53",
+    "data": [
+      {
+        "text": "get me a ",
+        "userDefined": false
+      },
+      {
+        "text": "hp 100",
+        "alias": "normal_use_keyboards",
+        "meta": "@normal_use_keyboards",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "eda0c59f-cdca-4cb4-8fce-374e08aa65fe",
+    "data": [
+      {
+        "text": "i need ",
+        "userDefined": false
+      },
+      {
+        "text": "hp 100 wired",
+        "alias": "normal_use_keyboards",
+        "meta": "@normal_use_keyboards",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

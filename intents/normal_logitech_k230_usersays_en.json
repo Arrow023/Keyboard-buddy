@@ -1,0 +1,70 @@
+[
+  {
+    "id": "3f8a61b0-210c-416a-8968-7966c4464d7d",
+    "data": [
+      {
+        "text": "Logitech K230 Keyboard",
+        "alias": "normal_use_keyboards",
+        "meta": "@normal_use_keyboards",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "881ade55-c1ea-4698-a261-3eccd413d868",
+    "data": [
+      {
+        "text": "want a ",
+        "userDefined": false
+      },
+      {
+        "text": "k230",
+        "alias": "normal_use_keyboards",
+        "meta": "@normal_use_keyboards",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2a9def4b-9133-4c8d-948d-52d41b7fb6f1",
+    "data": [
+      {
+        "text": "get me a ",
+        "userDefined": false
+      },
+      {
+        "text": "logitech k230",
+        "alias": "normal_use_keyboards",
+        "meta": "@normal_use_keyboards",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b4a49f7e-d828-4c5b-bfd5-73f595732a3d",
+    "data": [
+      {
+        "text": "i need a ",
+        "userDefined": false
+      },
+      {
+        "text": "logitech k230",
+        "alias": "normal_use_keyboards",
+        "meta": "@normal_use_keyboards",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

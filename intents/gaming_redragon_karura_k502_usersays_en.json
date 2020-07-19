@@ -1,0 +1,124 @@
+[
+  {
+    "id": "de8dc290-7c5e-49ea-b266-6a69258d7f71",
+    "data": [
+      {
+        "text": "Redragon Karura K502 USB Gaming Keyboard",
+        "alias": "gaming_keyboard",
+        "meta": "@gaming_keyboard",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a55e2f7b-8c29-4b70-b9af-610715fdbe61",
+    "data": [
+      {
+        "text": "get me a ",
+        "userDefined": false
+      },
+      {
+        "text": "k502",
+        "alias": "gaming_keyboard",
+        "meta": "@gaming_keyboard",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4888eb1a-3f04-4fd4-b365-9c30b92ad67a",
+    "data": [
+      {
+        "text": "need a ",
+        "userDefined": false
+      },
+      {
+        "text": "redragon k502",
+        "alias": "gaming_keyboard",
+        "meta": "@gaming_keyboard",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5558709d-f6dc-403f-abb9-91542479424d",
+    "data": [
+      {
+        "text": "need a ",
+        "userDefined": false
+      },
+      {
+        "text": "k502",
+        "alias": "gaming_keyboard",
+        "meta": "@gaming_keyboard",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cd4ef071-5911-4c16-bc98-887b68970f0d",
+    "data": [
+      {
+        "text": "need a ",
+        "userDefined": false
+      },
+      {
+        "text": "karura",
+        "alias": "gaming_keyboard",
+        "meta": "@gaming_keyboard",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "583a64a4-22cf-4bee-9476-e51db803c870",
+    "data": [
+      {
+        "text": "want a ",
+        "userDefined": false
+      },
+      {
+        "text": "redragon karura",
+        "alias": "gaming_keyboard",
+        "meta": "@gaming_keyboard",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0635139a-3f27-4383-b3af-d9ebe9d1458b",
+    "data": [
+      {
+        "text": "need a ",
+        "userDefined": false
+      },
+      {
+        "text": "karura k502",
+        "alias": "gaming_keyboard",
+        "meta": "@gaming_keyboard",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

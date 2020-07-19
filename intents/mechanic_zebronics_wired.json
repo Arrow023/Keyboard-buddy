@@ -1,0 +1,61 @@
+{
+  "id": "a14a0a58-d673-43a6-a00e-bc54a6d1bae0",
+  "name": "mechanic_zebronics_wired",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "4ed1ef22-8b8a-4f2a-a4ce-c71073caa256",
+          "required": false,
+          "dataType": "@mech_keyboard",
+          "name": "mech_keyboard",
+          "value": "$mech_keyboard",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "telegram",
+          "lang": "en",
+          "condition": "",
+          "title": "ZEBRONICS MECHANICAL USB WIRED KEYBOARD MAX PLUS",
+          "subtitle": "Max plus is a sturdy USB mechanical keyboard with 104 keys along with 12 additional multimedia keys. It has multi color LED with 7 LED modes and 5 LED brightness levels.",
+          "imageUrl": "https://rukminim1.flixcart.com/image/1664/1664/jfikknk0/keyboard/multi-device-keyboard/h/m/z/zebronics-max-plus-original-imaf3wn5s3ktsg7q.jpeg?q\u003d90",
+          "buttons": [
+            {
+              "text": "Buy Now",
+              "postback": "https://www.amazon.in/ZEBRONICS-MaxPlus-Gaming-KeyBoard-Black/dp/B0758FZJ2J/ref\u003dsr_1_fkmr0_1?keywords\u003dzebronics+mechanical+usb+wired+keyboard+mx+plug\u0026qid\u003d1575359004\u0026sr\u003d8-1-fkmr0"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "The mechanical architecture is great. This Zebronics MAX pro will give you a complete free flow butter flow typing experience."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

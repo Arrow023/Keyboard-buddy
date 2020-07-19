@@ -1,0 +1,9 @@
+{
+  "id": "2b1adbaf-3541-41fe-823a-750de75a69b3",
+  "name": "gaming_keyboard",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

@@ -1,0 +1,9 @@
+{
+  "id": "b5fe774f-4370-4ffc-afb3-723ed996c248",
+  "name": "normal_use_keyboards",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

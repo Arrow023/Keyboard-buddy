@@ -1,0 +1,70 @@
+[
+  {
+    "id": "a2313ddf-9c87-4f5c-a91e-acf7764566b3",
+    "data": [
+      {
+        "text": "get me a ",
+        "userDefined": false
+      },
+      {
+        "text": "kb216",
+        "alias": "normal_use_keyboards",
+        "meta": "@normal_use_keyboards",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "504ce804-6411-465d-a96e-5a4eaeba0575",
+    "data": [
+      {
+        "text": "Dell KB216 Keyboard",
+        "alias": "normal_use_keyboards",
+        "meta": "@normal_use_keyboards",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "df1cbf5a-ac41-4bf9-ab2e-b7d68dcbf6b1",
+    "data": [
+      {
+        "text": "suggest me a ",
+        "userDefined": false
+      },
+      {
+        "text": "dell keyboard",
+        "alias": "normal_use_keyboards",
+        "meta": "@normal_use_keyboards",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c443dd86-b67b-40bc-a150-aae2a7e066c3",
+    "data": [
+      {
+        "text": "i need a ",
+        "userDefined": false
+      },
+      {
+        "text": "dell kb216",
+        "alias": "normal_use_keyboards",
+        "meta": "@normal_use_keyboards",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,90 @@
+{
+  "id": "b31c2434-30c5-4342-a3f6-b26f3611a424",
+  "name": "buy_gaming_keyboard",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "ae8de955-a288-433a-b7d3-417d3b982d8e",
+          "required": false,
+          "dataType": "@gaming_keyboard",
+          "name": "gaming_keyboard",
+          "value": "$gaming_keyboard",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "telegram",
+          "lang": "en",
+          "condition": "",
+          "title": "Gaming Keyboards",
+          "subtitle": "Select your gaming beast",
+          "imageUrl": "https://image.ebuyer.com/customer/promos/RichMedia3/828926/01.jpg",
+          "buttons": [
+            {
+              "text": "CORSAIR K55 Keyboard"
+            },
+            {
+              "text": "Redragon Karura K502"
+            },
+            {
+              "text": "Night Hawk NK101"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "condition": "",
+          "title": "Gaming Keyboards",
+          "subtitle": "Select your gaming beast",
+          "imageUrl": "https://image.ebuyer.com/customer/promos/RichMedia3/828926/01.jpg",
+          "buttons": [
+            {
+              "text": "CORSAIR K55 Keyboard",
+              "postback": "https://www.amazon.in/CORSAIR-K55-RGB-Gaming-Keyboard/dp/B01M4LIKLI/ref\u003dsr_1_3?keywords\u003dCORSAIR+K55+RGB+Gaming+Keyboard\u0026qid\u003d1575296204\u0026sr\u003d8-3"
+            },
+            {
+              "text": "Redragon Karura K502",
+              "postback": "https://www.amazon.in/Redragon-Karura-K502-Gaming-Keyboard/dp/B00LSGKEC4/ref\u003dsr_1_3?keywords\u003dRedragon+Karura+K502+USB+Gaming+Keyboard\u0026qid\u003d1575296235\u0026sr\u003d8-3"
+            },
+            {
+              "text": "Night Hawk NK101",
+              "postback": "https://www.amazon.in/Night-Hawk-Keyboard-Changeable-Anti-Ghosting/dp/B071WCDXCX/ref\u003dsr_1_1?keywords\u003dnighthawk+nk101+fps+gaming+keyboard\u0026qid\u003d1575296258\u0026sr\u003d8-1"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "You have arrived successfully to the Gaming world."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true,
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
